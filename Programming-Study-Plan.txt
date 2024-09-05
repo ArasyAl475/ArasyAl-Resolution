@@ -3,6 +3,7 @@
 - Python: Target - Aplikasi Image Processing
   - Pelajari dasar-dasar Python, termasuk sintaks, struktur data, dan pemrograman berorientasi objek.
   - Fokus pada image processing menggunakan library seperti OpenCV atau PIL.
+  - Membuat aplikasi berbasis android
 
 - PHP: Target - Paham Laravel dan Menjadi Ahli dalam PHP
   - Pelajari dasar-dasar PHP, termasuk sintaks, variabel, dan struktur kontrol.

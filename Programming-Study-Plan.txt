@@ -1,0 +1,12 @@
+# Rencana Belajar Programming
+
+- Python: Target - Aplikasi Image Processing
+  - Pelajari dasar-dasar Python, termasuk sintaks, struktur data, dan pemrograman berorientasi objek.
+  - Fokus pada image processing menggunakan library seperti OpenCV atau PIL.
+
+- PHP: Target - Paham Laravel dan Menjadi Ahli dalam PHP
+  - Pelajari dasar-dasar PHP, termasuk sintaks, variabel, dan struktur kontrol.
+  - Kuasai konsep dasar PHP seperti pengolahan form, sesi, dan cookies.
+  - Dalami Laravel, framework PHP, termasuk routing, Eloquent ORM, dan Blade templating engine.
+  - Pelajari prinsip-prinsip desain web seperti MVC (Model-View-Controller) dan RESTful APIs.
+  - Bangun aplikasi web sederhana menggunakan Laravel untuk mengasah keterampilan dan memahami alur kerja.

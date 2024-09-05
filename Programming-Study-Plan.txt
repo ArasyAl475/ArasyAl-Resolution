@@ -3,7 +3,7 @@
 - Python: Target - Aplikasi Image Processing
   - Pelajari dasar-dasar Python, termasuk sintaks, struktur data, dan pemrograman berorientasi objek.
   - Fokus pada image processing menggunakan library seperti OpenCV atau PIL.
-  - Membuat aplikasi berbasis android
+  - Membuat aplikasi berbasis android menggunakan Android Studio
 
 - PHP: Target - Paham Laravel dan Menjadi Ahli dalam PHP
   - Pelajari dasar-dasar PHP, termasuk sintaks, variabel, dan struktur kontrol.
@@ -11,3 +11,10 @@
   - Dalami Laravel, framework PHP, termasuk routing, Eloquent ORM, dan Blade templating engine.
   - Pelajari prinsip-prinsip desain web seperti MVC (Model-View-Controller) dan RESTful APIs.
   - Bangun aplikasi web sederhana menggunakan Laravel untuk mengasah keterampilan dan memahami alur kerja.
+
+- Android Studio: Target - Membangun Aplikasi Android
+  - Pelajari dasar-dasar Android Studio, termasuk instalasi dan konfigurasi lingkungan pengembangan.
+  - Kuasai bahasa pemrograman Kotlin atau Java untuk Android.
+  - Pelajari dasar-dasar pengembangan aplikasi Android, termasuk activity, fragment, dan layout.
+  - Fokus pada penggunaan komponen Android seperti RecyclerView, ViewModel, dan LiveData.
+  - Bangun aplikasi Android sederhana untuk memahami siklus hidup aplikasi dan interaksi pengguna.

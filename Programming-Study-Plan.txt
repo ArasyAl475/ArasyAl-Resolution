@@ -5,6 +5,12 @@
   - Fokus pada image processing menggunakan library seperti OpenCV atau PIL.
   - Membuat aplikasi berbasis android menggunakan Android Studio
 
+- PyTorch: Target - Model Deep Learning
+  - Pelajari dasar-dasar PyTorch, termasuk tensor, autograd, dan optimizers.
+  - Kuasai teknik dasar dalam deep learning seperti neural networks, convolutional networks, dan recurrent networks.
+  - Implementasikan model deep learning untuk tugas-tugas seperti klasifikasi gambar atau analisis teks.
+  - Eksplorasi teknik lanjutan seperti transfer learning dan hyperparameter tuning.
+
 - PHP: Target - Paham Laravel dan Menjadi Ahli dalam PHP
   - Pelajari dasar-dasar PHP, termasuk sintaks, variabel, dan struktur kontrol.
   - Kuasai konsep dasar PHP seperti pengolahan form, sesi, dan cookies.
